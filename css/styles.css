@@ -3,6 +3,7 @@
 body {
   background-color: #8D1A14;
   margin: 0;
+  font-family: 'Source Code Pro', monospace;
 }
 
 .home-container {
