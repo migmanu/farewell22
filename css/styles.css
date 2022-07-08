@@ -6,6 +6,10 @@ body {
   font-family: 'Source Code Pro', monospace;
 }
 
+.location-body {
+  background-color: black;
+}
+
 .home-container {
   max-width: 100%;
   min-height: 100vh;
