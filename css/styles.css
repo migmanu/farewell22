@@ -7,10 +7,10 @@ body {
 }
 
 .location-body {
-  background-color: black;
+  background-color: #040000;
 }
 
-.home-container {
+.container {
   max-width: 100%;
   min-height: 100vh;
 }
