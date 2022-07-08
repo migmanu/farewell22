@@ -1,7 +1,40 @@
+
+
+body {
+  background-color: #8D1A14;
+  margin: 0;
+}
+
 .home-container {
-  max-width: 100vh;
+  max-width: 100%;
+  min-height: 100vh;
+}
+
+.title-and-subtitle-box {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.page-title {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
+
+.subtitle-box {
+  background-color: white;
+  text-align: center;
 }
 
 .poster {
   max-width: 100%;
+  box-shadow: 0 0 50px 50px black inset;
 }
+
+.information-box {
+  background-color: black;
+  width: 60%;
+  margin: 0 auto;
+  color: white;
+}
+
