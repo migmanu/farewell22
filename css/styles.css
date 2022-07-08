@@ -10,6 +10,10 @@ body {
   background-color: #040000;
 }
 
+.location-body h1 {
+  font-size: 100px;
+}
+
 .container {
   max-width: 100%;
   min-height: 100vh;
@@ -51,5 +55,18 @@ a {
   text-align: center;
 }
 
+/* || LOCATION STYLES */ 
 
+.gallery-box {
+  width: 90%;
+  margin: 0 auto;
+}
 
+.photo-box {
+  margin: 3% 0 3% 0;
+  max-width: 100%;
+}
+
+.photo {
+  max-width: 100%;
+}
