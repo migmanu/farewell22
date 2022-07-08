@@ -12,13 +12,12 @@ body {
 }
 
 .title-and-subtitle-box {
-  width: 60%;
   margin: 0 auto;
 }
 
 .page-title {
   color: white;
-  font-size: 100px;
+  font-size: 150px;
   text-align: center;
 }
 
