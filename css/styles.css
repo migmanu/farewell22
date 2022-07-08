@@ -17,7 +17,7 @@ body {
 
 .page-title {
   color: white;
-  font-size: 70px;
+  font-size: 100px;
   text-align: center;
 }
 
@@ -28,13 +28,12 @@ body {
 
 .poster {
   max-width: 100%;
-  box-shadow: 0 0 50px 50px black inset;
 }
 
 .information-box {
-  background-color: black;
-  width: 60%;
   margin: 0 auto;
   color: white;
+  font-size: 30px;
+  text-align: center;
 }
 
