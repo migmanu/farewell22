@@ -58,6 +58,13 @@ a {
 
 /* || LOCATION STYLES */ 
 
+.address {
+  color: white;
+  text-align: center;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
 .gallery-box {
   width: 90%;
   margin: 0 auto;
