@@ -93,3 +93,9 @@ a {
 .photo {
   max-width: 100%;
 }
+
+.attribute {
+  text-align: center;
+  color: white;
+  font-size: xx-small;
+}
